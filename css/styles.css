@@ -133,3 +133,13 @@ hr{
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+.logo {
+	margin: 1.5em 3em;
+	width: 6.4em;
+	height: 6.4em;
+	border-radius: 20%;
+	display: inline-block;
+	top: 0;
+	transition: all 0.2s ease;
+  box-shadow: 8px 10px 12px 3px rgba(0, 0, 0, 0.43);
+}
